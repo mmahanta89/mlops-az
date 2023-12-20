@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/labadmin/Desktop/mlops-az/mlruns/0/6e3b37181c4c4247ae87ec4dc6cb5bbc/artifacts
+end_time: 1703059813849
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e3b37181c4c4247ae87ec4dc6cb5bbc
+run_name: skillful-whale-123
+run_uuid: 6e3b37181c4c4247ae87ec4dc6cb5bbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703059803411
+status: 3
+tags: []
+user_id: labadmin

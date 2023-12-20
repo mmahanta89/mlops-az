@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/labadmin/Desktop/mlops-az/mlruns/0/59aca206de18402c8e732d520e710093/artifacts
+end_time: 1703058533140
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59aca206de18402c8e732d520e710093
+run_name: languid-wolf-169
+run_uuid: 59aca206de18402c8e732d520e710093
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703058506352
+status: 3
+tags: []
+user_id: labadmin

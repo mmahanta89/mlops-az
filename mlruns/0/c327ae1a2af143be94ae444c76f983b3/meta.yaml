@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/labadmin/Desktop/mlops-az/mlruns/0/c327ae1a2af143be94ae444c76f983b3/artifacts
+end_time: 1703059272166
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c327ae1a2af143be94ae444c76f983b3
+run_name: adaptable-lark-113
+run_uuid: c327ae1a2af143be94ae444c76f983b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703059256156
+status: 3
+tags: []
+user_id: labadmin
