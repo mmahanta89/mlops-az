@@ -8,7 +8,7 @@ inputs:
   training_data: 
     type: uri_folder 
     path: azureml://subscriptions/addec778-2ae6-4ec6-8f7e-c392a1ca1694/resourcegroups/SCB_Manoj/workspaces/manoj-aml/datastores/workspaceblobstore/paths/LocalUpload/386681db2f7cd59e8c96f5ee80b212db/data/
-  reg_rate: 0.01
+  reg_rate: 0.03
 environment: azureml:AzureML-sklearn-0.24-ubuntu18.04-py37-cpu@latest
 compute: aml-compute
 experiment_name: diabetes-CImodel
